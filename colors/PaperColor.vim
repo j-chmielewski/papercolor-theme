@@ -157,7 +157,7 @@ fun! s:register_default_theme()
         \       'search_bg' : ['#00875f', '29'],
         \       'linenumber_fg' : ['#585858', '240'],
         \       'linenumber_bg' : ['#1c1c1c', '234'],
-        \       'vertsplit_fg' : ['#5f8787', '66'],
+        \       'vertsplit_fg' : ['#3a3a3a', '66'],
         \       'vertsplit_bg' : ['#1c1c1c', '234'],
         \       'statusline_active_fg' : ['#1c1c1c', '234'],
         \       'statusline_active_bg' : ['#5f8787', '66'],
