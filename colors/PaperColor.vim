@@ -141,7 +141,7 @@ fun! s:register_default_theme()
         \       'color11' : ['#af87d7', '140'],
         \       'color12' : ['#ffaf00', '214'],
         \       'color13' : ['#ff5faf', '205'],
-        \       'color14' : ['#4e4e4e', '37'],
+        \       'color14' : ['#00afaf', '37'],
         \       'color15' : ['#5f8787', '66'],
         \       'color16' : ['#5fafd7', '74'],
         \       'color17' : ['#d7af00', '178'],
